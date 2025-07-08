@@ -1,0 +1,8 @@
+## pycache
+**/__pycache__/
+
+## models
+pretrained_models/
+
+## samples
+samples/**
